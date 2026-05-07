@@ -1,2 +1,7 @@
 # SiliconCore
-A Minecraft Optimization Mod That Reduces And Optimizes Memory Usage.
+
+A Minecraft Mod That Reduces And Optimizes Memory Usage. Fixing Overheating Issues.
+
+This README File Is Just For The Testing Version. LOL!
+
+;-) 
